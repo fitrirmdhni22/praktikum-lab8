@@ -18,7 +18,7 @@ Menghapus data mahasiswa berdasarkan nama.
 Mengubah nilai mahasiswa berdasarkan nama.
 
 # Flowchart Program
-
+![Flowchart](https://github.com/fitrirmdhni22/praktikum-lab8/blob/main/flowchartlab8.drawio.png?raw=true)
 # Kode Program
 ```python
 vclass DaftarNilaiMahasiswa:
